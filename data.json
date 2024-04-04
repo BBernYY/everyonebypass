@@ -1,0 +1,8 @@
+{
+    "commands": {
+        "help": {
+            "description": "shows this message.",
+            "usage": "!help <command>"
+        }
+    }
+}
