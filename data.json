@@ -3,6 +3,13 @@
         "help": {
             "description": "shows this message.",
             "usage": "!help <command>"
+        },
+        "dm": {
+            "description": "sends people dms",
+            "usage": "!dm <user> <content>"
         }
+    },
+    "dm_claims": {
+
     }
 }
